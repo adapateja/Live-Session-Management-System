@@ -11,7 +11,8 @@ open the project in your code editor
   And make  split terminals
   
   go to the backend and frontend folder paths on each one of the terminal
-     backend terminal example:- yourpath/Live-Session-Management-System/backend>
+  
+backend terminal example:- yourpath/Live-Session-Management-System/backend>
      
 frontend terminal exmaple:- yourpath/Live-Session-Management-System/frontend>
      
