@@ -17,13 +17,17 @@ backend terminal example:- yourpath/Live-Session-Management-System/backend>
 frontend terminal exmaple:- yourpath/Live-Session-Management-System/frontend>
      
   now in forntend terminal run this command--> npm install
-      example :- yourpath/Live-Session-Management-System/frontend> npm install
+     
+example :- yourpath/Live-Session-Management-System/frontend> npm install
       
   now in backend terminal run this command--> npm install
-      example :- yourpath/Live-Session-Management-System/backend> npm install
+     
+example :- yourpath/Live-Session-Management-System/backend> npm install
       
   now in backend terminal run this command--> npm start
-      example :- yourpath/Live-Session-Management-System/backend> start
+      
+example :- yourpath/Live-Session-Management-System/backend> start
       
   now in forntend terminal run this command--> npm start
-      example :- yourpath/Live-Session-Management-System/frontend> npm start
+      
+example :- yourpath/Live-Session-Management-System/frontend> npm start
